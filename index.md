@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # 章魚哥天堂 (Squidville)
 ![章魚哥天堂](https://i.imgur.com/YFjtifd.jpg)
 
-![【情報】有點高畫質的"海綿寶寶梗圖"](https://forum.gamer.com.tw/C.php?bsn=60076&snA=5491441)
+![【情報】有點高畫質的"海綿寶寶梗圖"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.gamer.com.tw%2FC.php%3Fbsn%3D60076%26snA%3D5491441&psig=AOvVaw1CsjIVIxqAReJ_lh_n9BHA&ust=1616212774679000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjto_W7u-8CFQAAAAAdAAAAABAD)
 
 * 列表一
 * 列表二
