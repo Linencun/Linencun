@@ -7,11 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # 40717014
 
 # 藝術天才 (Artist Unknown)
-![](https://i.imgur.com/fOT5DvI.jpg)
+![藝術天才 (Artist Unknown)](https://i.imgur.com/fOT5DvI.jpg)
 # 神奇海螺 (Club SpongeBob)
-![](https://i.imgur.com/Cx3CAEv.jpg)
+![神奇海螺 (Club SpongeBob)](https://i.imgur.com/Cx3CAEv.jpg)
 # 章魚哥天堂 (Squidville)
-![](https://i.imgur.com/YFjtifd.jpg)
+![章魚哥天堂 (Squidville)](https://i.imgur.com/YFjtifd.jpg)
 
 * 列表一
 * 列表二
