@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # 藝術天才 (Artist Unknown)
 ![藝術天才](https://i.imgur.com/fOT5DvI.jpg)
+# 酸黃瓜 (Pickles)
+![酸黃瓜](https://i.imgur.com/2BBHiBW.jpg)
 # 神奇海螺 (Club SpongeBob)
 ![神奇海螺](https://i.imgur.com/Cx3CAEv.jpg)
 # 章魚哥天堂 (Squidville)
