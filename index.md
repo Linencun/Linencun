@@ -5,6 +5,9 @@ You can use the [editor on GitHub](https://github.com/Linencun/Linencun/edit/gh-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # 40717014
+
+# 藝術天才 (Artist Unknown)
+![](https://i.imgur.com/fOT5DvI.jpg)
 # 神奇海螺 (Club SpongeBob)
 ![](https://i.imgur.com/Cx3CAEv.jpg)
 # 章魚哥天堂 (Squidville)
