@@ -4,10 +4,8 @@ You can use the [editor on GitHub](https://github.com/Linencun/Linencun/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# 40717014
+# 東南科技大學 資訊科技系 林恩存
 
-# 藝術天才 (Artist Unknown)
-![藝術天才](https://i.imgur.com/fOT5DvI.jpg)
 # 酸黃瓜 (Pickles)
 ![酸黃瓜](https://i.imgur.com/2BBHiBW.jpg)
 # 神奇海螺 (Club SpongeBob)
